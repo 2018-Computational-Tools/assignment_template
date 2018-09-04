@@ -1,1 +1,3 @@
-# assignment_template
+# Template
+
+This is a project template.
