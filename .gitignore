@@ -20,8 +20,9 @@ Thumbs.db
 packrat/lib*/
 packrat/src/
 
-# exclude Jupyter checkpoints
+# exclude Python and Jupyter temp files
 .ipynb_checkpoints
+*.pyc
 
 # exclude authentication tokens
 .httr-oauth
